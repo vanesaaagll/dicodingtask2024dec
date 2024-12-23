@@ -1,3 +1,5 @@
+# Nama: Vanesa Agelliza
+# Email: vanesaagelliza@gmail.com
 # Kriteria 1: Menggunakan Salah Satu dari Dataset yang Telah Disediakan
 ## Bike Sharing Dataset (Sumber)
 
